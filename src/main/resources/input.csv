@@ -1,0 +1,3 @@
+test_no,test_action,test_description,locator,value,verify
+1,Loadpage,load flipkart website,https://www.flipkart.com/,,title="Flipkart"
+2,Loadpage,load flipkart website,https://www.flipkart.com/,,title="Search for products, brands and more"
